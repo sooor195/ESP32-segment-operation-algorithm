@@ -1,0 +1,12 @@
+
+it was implemented in steps using the Arduino IDE program, that's :
+esp32 first synchronous task algorithm
+- Download Arduino IDE
+- Run the program
+- From File, then Preferences, then add the link, then OK https://dl.espressif.com/dl/package_esp32_index.json- 
+Then from Tools, choose the Arduino board, then the board manager, and we search for esp32 it does not exist, we added it and downloaded it.
+- Arduino board choose esp32 Arduino then choose WEMOS D1 MINI ESP32
+- Connect the cable by piece
+- com3 port tools specify the port itself com3
+- Run the lighting program from the program to run it.
+- The code that programs esp32 appears and we change the delay value to low and high, the light flashes to be accelerated, and to the top, the flashes to slow down.
